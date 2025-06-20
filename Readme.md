@@ -1,2 +1,1 @@
-Meu primeiro projeto do Git
-Isso é uma alteração
+Este projeto tem como intuito reproduzir o site da Shopee para fins de aprendizado e treinamento nas linguagens de html e css (front-end).

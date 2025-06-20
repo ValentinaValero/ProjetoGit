@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+
+.navbar{
+    background: linear-gradient(to bottom, #F63F2D, #FE6332);
+    width: 100%;
+    position: fixed;
+}
+
+.barraSuperiorNavbar{
+    display: flex;
+}
+
+.barraSuperiorNavbar a, li, p{
+    text-decoration: none;
+    color: white;
+    list-style-type: none;
+    display: inline;
+}
+
+.redesSociais a{
+    margin-left: 3px;
+}
+
+
+
+.logoShopee{
+    width: 150px;
+}
